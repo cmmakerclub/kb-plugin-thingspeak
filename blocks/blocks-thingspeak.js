@@ -11,7 +11,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField("API KEY")
       .appendField(new Blockly.FieldTextInput("                              "),
         "API_KEY");
-    this.appendValueInput("FIELD1")
+    this.appendDummyInput("FIELD1")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -22,7 +22,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD1");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD2")
+    this.appendDummyInput("FIELD2")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -33,7 +33,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD2");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD3")
+    this.appendDummyInput("FIELD3")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -44,7 +44,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD3");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD4")
+    this.appendDummyInput("FIELD4")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -55,7 +55,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD4");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD5")
+    this.appendDummyInput("FIELD5")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -66,7 +66,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD5");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD6")
+    this.appendDummyInput("FIELD6")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -77,7 +77,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD6");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD7")
+    this.appendDummyInput("FIELD7")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
@@ -88,7 +88,7 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD7");
     this.setConnectionsHidden(true);
-    this.appendValueInput("FIELD8")
+    this.appendDummyInput("FIELD8")
       .setCheck("String")
       .appendField(new Blockly.FieldImage(
         "https://image.flaticon.com/icons/svg/148/148953.svg",
