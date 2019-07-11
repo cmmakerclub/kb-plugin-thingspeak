@@ -30,15 +30,7 @@ Blockly.JavaScript["thing_speak_core"] = function(block) {
   var code = `
   #EXTINC #include <HTTPClient.h> #END\n
   HTTPClient http;\n
-  http.begin("https://api.thingspeak.com/update?api_key=${value_api_key}\
-  &field1=string(${value_field1})\
-  &field3=string(${value_field2})\
-  &field4=string(${value_field3})\
-  &field5=string(${value_field4})\
-  &field6=string(${value_field5})\
-  &field2=string(${value_field6})\
-  &field7=string(${value_field7})\
-  &field8=string(${value_field8})");\n
+  http.begin("https://api.thingspeak.com/update?api_key=${value_api_key}&field1=string(${value_field1})&field3=string(${value_field2})&field4=string(${value_field3})&field5=string(${value_field4})&field6=string(${value_field5})&field2=string(${value_field6})&field7=string(${value_field7})&field8=string(${value_field8})");\n
   http.GET();\n
   http.end();`;
 

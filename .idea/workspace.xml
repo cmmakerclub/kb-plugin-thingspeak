@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1485581a-97c5-4e9d-bd82-74b43d48b1c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blocks/blocks-thingspeak.js" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/blocks-thingspeak.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/generators-thingspeak.js" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/generators-thingspeak.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library.json" beforeDir="false" afterPath="$PROJECT_DIR$/library.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/library.properties">
+        <entry file="file://$PROJECT_DIR$/blocks/generators-thingspeak.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="577">
+              <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -46,9 +43,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/blocks/blocks-thingspeak.js" />
-        <option value="$PROJECT_DIR$/blocks/generators-thingspeak.js" />
         <option value="$PROJECT_DIR$/library.json" />
         <option value="$PROJECT_DIR$/library.properties" />
+        <option value="$PROJECT_DIR$/blocks/generators-thingspeak.js" />
       </list>
     </option>
   </component>
@@ -133,12 +130,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562830634073</updated>
       <workItem from="1562830636771" duration="48000" />
-      <workItem from="1562830699941" duration="5360000" />
+      <workItem from="1562830699941" duration="5583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5408000" />
+    <option name="totallyTimeSpent" value="5631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1920" height="1002" extended-state="6" />
@@ -184,13 +181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/generators-thingspeak.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/library.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -200,8 +190,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/library.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/generators-thingspeak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
         </state>
       </provider>
     </entry>
