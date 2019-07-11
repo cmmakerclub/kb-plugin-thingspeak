@@ -14,5 +14,5 @@
   "platform": [
     "arduino-esp32"
   ],
-  "image": "/static/thingspeak.png"
+  "image": "/static/display.png"
 }
