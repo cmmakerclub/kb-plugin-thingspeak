@@ -9,7 +9,7 @@
   "author": "Maker Asia",
   "email": "makerasia@gmail.com",
   "url": "https://kbide.org/",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "board": "",
   "platform": [
     "arduino-esp32"
