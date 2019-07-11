@@ -91,6 +91,8 @@ Blockly.Blocks["thing_speak_core"] = {
       .appendField("FIELD 8 : DATA IS")
       .appendField(new Blockly.FieldVariable(null),
         "INPUT_FIELD8");
+    this.setConnectionsHidden(true);
+    this.setNextStatement(true);
     this.setPreviousStatement(true, null);
     this.setColour(230);
     this.setTooltip("");
