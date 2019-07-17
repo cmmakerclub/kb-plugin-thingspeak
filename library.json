@@ -5,7 +5,7 @@
   "description": "KB ThingSpeak plugin for esp32",
   "homepage": "",
   "license": "MIT",
-  "git": "https://github.com/cmmakerclub/kb-plugin-thingspeak",
+  "git": "https://github.com/cmmakerclub/kb-plugin-thingspeak/",
   "author": "Maker Asia",
   "email": "makerasia@gmail.com",
   "url": "https://kbide.org/",
